@@ -1,0 +1,14 @@
+#Unity ignore fold
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+
+#Unity ignore file
+*.meta
+
+
+#Csharp ignore file
+*.sln
+*.suo
+*.csproj
+*tmp
