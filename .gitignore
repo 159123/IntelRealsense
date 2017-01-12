@@ -1,5 +1,5 @@
 # Unity3d ignore folders
-[Ll]ibrary/
+/[Ll]ibrary/
 /[Tt]emp
 /[Pp]roject[Ss]ettings
 
