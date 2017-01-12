@@ -1,10 +1,10 @@
 # Unity3d ignore folders
-/[Ll]ibrary
-/[Pp]roject[Ss]ettings
+[Ll]ibrary/
+[Tt]emp/
 
 
 #Unity igonre files
-
 *.meta
 *.sln
 *.csproj
+*.suo
