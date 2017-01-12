@@ -1,8 +1,9 @@
 # =============== #
 # Unity generated #
 # =============== #
-Temp/
-Library/
+[Tt]emp/
+[Ll]ibrary/
+*.meta
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
