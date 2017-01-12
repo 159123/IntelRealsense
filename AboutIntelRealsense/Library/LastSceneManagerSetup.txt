@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/RSUnityToolkit/Samples/Scenes/Sample7 - Object Tracking.unity
-  isLoaded: 1
-  isActive: 1
