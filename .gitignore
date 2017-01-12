@@ -1,14 +1,11 @@
-#Unity ignore fold
+# Unity3d ignore folders
 [Ll]ibrary/
 [Tt]emp/
-[Oo]bj/
+[Pp]roject[Ss]ettings
 
-#Unity ignore file
+
+#Unity igonre files
+
 *.meta
-
-
-#Csharp ignore file
 *.sln
-*.suo
 *.csproj
-*tmp
