@@ -2,7 +2,8 @@
 # Unity generated #
 # =============== #
 [Tt]emp/
-*.meta
+[Ll]ibrary/
+
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -17,6 +18,7 @@ obj/
 *.user
 *.unityproj
 *.booproj
+
 # ============ #
 # OS generated #
 # ============ #
